@@ -1,0 +1,8 @@
+
+public class ListaLibri {
+
+	public ListaLibri() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
